@@ -10,9 +10,9 @@ $(document).ready(function() {
     function createScheduler(date) {
 
         // Set start time at 8am
-        date = moment(date).hour(8);
+        date = moment(date).hour(7);
 
-        for (let i = 0; i < 12; i++) {
+        for (let i = 0; i < 18; i++) {
             
             // Bootstrap Row: create div with class row 
             const rowDiv = $("<div>").addClass("row").attr("id", `row${i}`);
@@ -79,3 +79,5 @@ $(document).ready(function() {
         location.reload();
     });
 });
+
+
