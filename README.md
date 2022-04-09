@@ -39,7 +39,7 @@ THEN the saved events persist
     *grey - the past event or activity
     *the different shades of green - the present and future event or activity
 
-![alt text](assets/images/image02.png)
+![alt text](assets/images/Image02.png)
 
 #### <em>Recording or entering event or activity in the timeblock</em> 
      The user click on the timeblock to enter their activities or events. 
@@ -61,8 +61,9 @@ THEN the saved events persist
  ![alt text](assets/images/image05.png)   
 
 
-## DEPLOYMENT
 
+
+## DEPLOYMENT
 
 The URL of the GitHub respository is :-
 
