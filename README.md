@@ -14,6 +14,9 @@ The URL of the functional deployed application is -
 
 https://stellalph.github.io/WORK_DAY_SCHEDULER/
 
+## REFERENCES
+
+  - The Materials from The Unit Ahead : The Third Party APIs which includes the Moment.js Cheat Sheet.
 
 ## ACCEPTANCE CRITERIA
 
@@ -73,7 +76,3 @@ THEN the saved events persist
 
 
 
-
-## REFERENCES
-
-  - The Materials from The Unit Ahead : The Third Party APIs which includes the Moment.js Cheat Sheet.
