@@ -1,5 +1,6 @@
 ## TASK
-The task here is to create a simple calendar application that allows a user like me to save my daily schedule between the time of 7am to 12 am (midnight) including important events to manage my time effectively.  This app will run in the browser and feature HTML, CSS powered by jQuery.  Reference is also made to moment.js for the time and date format.
+The task here is to create a simple calendar application that allows a user like me to save my daily schedule between the time of 7am to 12 am (midnight) including important events to manage my time effectively.  This app will run in the browser and feature HTML, CSS powered by jQuery.  
+
 
 ## DEPLOYMENT
 
@@ -71,8 +72,8 @@ THEN the saved events persist
  ![alt text](assets/images/image05.png)   
 
 
-## REFERENCES (other)
 
-    > * The materials from The Unit Ahead: Third-Party APIs
-    > * Moment.js Documentation/Moment.js Cheat Sheet
 
+## REFERENCES
+
+  - The Materials from The Unit Ahead : The Third Party APIs which includes the Moment.js Cheat Sheet.
