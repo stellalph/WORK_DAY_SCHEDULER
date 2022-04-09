@@ -1,7 +1,17 @@
 ## TASK
 The task here is to create a simple calendar application that allows a user like me to save my daily schedule between the time of 7am to 12 am (midnight) including important events to manage my time effectively.  This app will run in the browser and feature HTML, CSS powered by jQuery.  Reference is also made to moment.js for the time and date format.
 
-The application is deployed on GitHub and the repository name is  as the quiz is on testing Javascript fundamentals.
+## DEPLOYMENT
+
+The name of the repository is WORK_DAY_SCHEDULER to identify that this is a scheduler or planner to manage the time effectively.
+
+The URL of the GiHub repository is :-
+
+https://github.com/stellalph/WORK_DAY_SCHEDULER.git
+
+The URL of the functional deployed application is -
+
+https://stellalph.github.io/WORK_DAY_SCHEDULER/
 
 
 ## ACCEPTANCE CRITERIA
@@ -62,20 +72,8 @@ THEN the saved events persist
 
 
 
-
-## DEPLOYMENT
-
-The URL of the GitHub respository is :-
-
-https://github.com/stellalph/WORK_DAY_SCHEDULER.git
-
-The URL of the functional, deployed application is :-
-
-https://stellalph.github.io/WORK_DAY_SCHEDULER/
-
-
 ## REFERENCES (other)
 
-* The materials from The Unit Ahead: Third-Party APIs
-
+-The materials from The Unit Ahead: Third-Party APIs
+-Moment.js Documentation/Moment.js Cheat Sheet
 
