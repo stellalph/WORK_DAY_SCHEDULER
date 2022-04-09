@@ -66,14 +66,13 @@ THEN the saved events persist
 ![alt text](assets/images/image04.png)
 
 #### <em>Clear the previous events or entries<em>
-     Click on the "Clear Scheduler" button, the user can also clear the entries for a fresh start.
+     Click on the "Clear Scheduler" button, the user can also clear the entries for a fresh start without going to the timeblocks and clear the entries.
 
  ![alt text](assets/images/image05.png)   
 
-3) If the user decided not to go ahead with the events or activities, they can clear the entries just by clicking the "Clear Scheduler" button without going to timeblocks and clear the entries.
 
 ## REFERENCES (other)
 
-*The materials from The Unit Ahead: Third-Party APIs
-*Moment.js Documentation/Moment.js Cheat Sheet
+    > * The materials from The Unit Ahead: Third-Party APIs
+    > * Moment.js Documentation/Moment.js Cheat Sheet
 
