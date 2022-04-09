@@ -17,6 +17,7 @@ https://stellalph.github.io/WORK_DAY_SCHEDULER/
 ## REFERENCES
 
   - The Materials from The Unit Ahead : The Third Party APIs which includes the Moment.js Cheat Sheet.
+  - Google and Microsoft Edge for various ideas.
 
 ## ACCEPTANCE CRITERIA
 
