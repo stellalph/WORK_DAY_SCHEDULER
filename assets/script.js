@@ -6,13 +6,16 @@ $(document).ready(function() {
     // Today's date for jumbotron
     $("#currentDay").text(todaysDate.format("dddd | MMMM Do YYYY | hh:mm a"));
 
+    // Reference : Moment.js cheatsheet
+    // https://devhints.io/moment
+
     // Function to create rows for schedule
     function createScheduler(date) {
 
-        // Set start time at 8am
+        // Set start time at 7am
         date = moment(date).hour(7);
 
-        for (let i = 0; i < 18; i++) {
+        for (let i = 0; i < 17; i++) {
             
             // Bootstrap Row: create div with class row 
             const rowDiv = $("<div>").addClass("row").attr("id", `row${i}`);
