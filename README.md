@@ -14,6 +14,14 @@ The URL of the functional deployed application is -
 
 https://stellalph.github.io/WORK_DAY_SCHEDULER/
 
+## TECHNOLOGIES
+
+* HTML
+* CSS Bootstrap
+* jQuery
+* Moment.js
+
+
 ## REFERENCES
 
   - The Materials from The Unit Ahead : The Third Party APIs which includes the Moment.js Cheat Sheet.
